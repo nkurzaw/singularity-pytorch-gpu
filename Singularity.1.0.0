@@ -32,4 +32,4 @@ From: nvidia/cuda:11.7.0-devel-ubuntu18.04
 	# Install python libraries
 	python3 -m pip install wheel
 	python3 -m pip install torch numpy matplotlib torchsummary \
-	scikit-learn pandas scipy jupyterlab seaborn ray functools
+	scikit-learn pandas scipy jupyterlab seaborn ray
